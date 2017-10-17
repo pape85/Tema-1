@@ -1,0 +1,14 @@
+<curso>
+<titulo>
+Introduccion a xml
+</titulo>
+
+<unidad titulo= "XML">
+<lecciones>
+<leccion titulo= "introduccion"></leccion>
+<leccion titulo= "documento bien formado"></leccion>
+<leccion titulo= "ejemplos de uso"></leccion>
+</lecciones>
+</unidad>
+
+</curso>
